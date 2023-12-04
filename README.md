@@ -1,2 +1,2 @@
 # notes-app
-app for making notes 
+just make your notes 
